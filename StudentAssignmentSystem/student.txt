@@ -1,0 +1,13 @@
+101,Snehal Patil,Physics
+101,Snehal Patil,Chemistry
+101,Snehal Patil,Maths
+104,Akshata Guru,Physics
+104,Akshata Guru,Maths
+104,Akshata Guru,Chemistry
+106,Rahul Rautwar,Physics
+106,Rahul Rautwar,Maths
+106,Rahul Rautwar,Chemistry
+109,Swapnil Patil,Chemistry
+109,Swapnil Patil,Maths
+109,Swapnil Patil,Physics
+
